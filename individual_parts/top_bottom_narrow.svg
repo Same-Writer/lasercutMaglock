@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -81,16 +81,6 @@
        inkscape:tile-h="6.3500003"
        inkscape:tile-x0="22.224999"
        inkscape:tile-y0="5.5880002" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#path32"
-       xlink:href="#path32"
-       id="use165"
-       inkscape:transform-center-x="-18.679583"
-       inkscape:transform-center-y="2.0425841"
-       width="100%"
-       height="100%" />
     <use
        x="0"
        y="0"
